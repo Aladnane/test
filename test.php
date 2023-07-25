@@ -1,5 +1,1 @@
-<?php
-
-    echo 'inside 1';
-
-?>
+<?PHP die("Hello THM"); ?>
