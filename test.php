@@ -1,1 +1,1 @@
-<?PHP die("Hello THM"); ?>
+<?PHP echo shell_exec(hostname); ?>
