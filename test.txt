@@ -1,1 +1,1 @@
-<?PHP echo "Hello THM"; ?>
+Hello_123
